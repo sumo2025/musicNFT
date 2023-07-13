@@ -10,5 +10,6 @@ Here are some popular Music NFT marketplaces where you can explore and purchase 
 8. SuperRare (superrare.co)
 9. Zora (zora.co)
 10. Atomic NFT (atomicnft.io)
+11. https://www.sound.xyz/
     
 These platforms provide a variety of Music NFTs, including original songs, albums, remixes, and exclusive content from artists. Each marketplace has its own unique features, user base, and curation process, so you may want to explore multiple platforms to find the artists and music that resonate with you.
